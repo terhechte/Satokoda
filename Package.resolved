@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ID3TagEditor",
+        "repositoryURL": "https://github.com/chicio/ID3TagEditor.git",
+        "state": {
+          "branch": null,
+          "revision": "1c257b3718921b3a52bbd1eed7c7b79f80e08851",
+          "version": "2.2.0"
+        }
+      },
+      {
+        "package": "NetTime",
+        "repositoryURL": "https://github.com/dduan/NetTime",
+        "state": {
+          "branch": null,
+          "revision": "5128a33932b4c8d5da12b3103f90a03f749c94ad",
+          "version": "0.1.1"
+        }
+      },
+      {
+        "package": "CommandLineKit",
+        "repositoryURL": "https://github.com/objecthub/swift-commandlinekit.git",
+        "state": {
+          "branch": null,
+          "revision": "b6c7786a8fbbe32a819474d3a85f8d93db63052c",
+          "version": "0.2.5"
+        }
+      },
+      {
+        "package": "TOMLDecoder",
+        "repositoryURL": "https://github.com/dduan/TOMLDecoder",
+        "state": {
+          "branch": null,
+          "revision": "18d3ed421cf6fbfaf278d96cd4b85c94e71f7961",
+          "version": "0.0.3"
+        }
+      },
+      {
+        "package": "TOMLDeserializer",
+        "repositoryURL": "https://github.com/dduan/TOMLDeserializer",
+        "state": {
+          "branch": null,
+          "revision": "9bc9b2df30e9c952c5fe5941fee85e5709da91cf",
+          "version": "0.1.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
