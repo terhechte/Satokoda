@@ -3,10 +3,6 @@ import CommandLineKit
 import TOMLDecoder
 import Foundation
 
-struct satokoda {
-    var text = "Hello, World!"
-}
-
 struct Config: Codable {
     let imagePath: String
     let year: Int
